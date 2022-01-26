@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Karim-El-Agamy
-- 👀 I am a Full Stack Developer with an interest in Web3 Technologies and all things Crypto.
-- 🌱 I’m currently learning Web3 and Solidity Programming, as well as NFT Game Development.
+- 👀 I am a Full Stack Developer with an interest in Web3 Technologies and all things Crypto
+- 🌱 I’m currently learning Web3 and Solidity Programming, as well as NFT Game Development
 - 📫 You can reach me through my Discord: @Karim-Elagamy#4440
